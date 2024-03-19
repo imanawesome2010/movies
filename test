@@ -1,0 +1,8 @@
+#EXTM3U
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nsB3/rHXY84uRmLsuwZATw", "kid":"L8GumHDZ9BM5W00p922sjQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="103.unifi" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041607X0-portrait.jpg" group-logo="" group-title="",Oprah And The Color Purple Journey
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/658501a6d940521074ed91ac_hbovodhd/dash0/MYS_index.mpd
